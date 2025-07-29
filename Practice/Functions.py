@@ -7,12 +7,10 @@ def sayhi():
 
 sayhi()
 # This code demonstrates how to define and call a function in Python.
-
 # We can also pass parameters to functions to make them more flexible.
 
 def greet(name):
     print(f"Hello, {name}!")
-
 # This code defines a function named greet that takes a parameter name and prints a personalized greeting message.
 
 greet("Alice")
