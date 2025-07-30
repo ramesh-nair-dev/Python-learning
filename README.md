@@ -1,6 +1,6 @@
 # 🐍 Python Fundamentals Practice by Ramesh Nair
 
-This repository documents my hands-on journey learning Python, the primary language used in all AI modules in my upcoming project **"Sherlock — The AI Developer Assistant"**. 
+This repository documents my hands-on journey learning Python. 
 
 This repo is intentionally structured for:
 - Mastering Python syntax and OOP
