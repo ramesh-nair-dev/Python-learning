@@ -14,10 +14,10 @@ def calculator(num1 , num2 , operator):
         return "Error: Invalid operator. Please use +, -, *, or /."
     
 
-print(calculator(5, 10, '+'))  # Example usage
-print(calculator(10, 5, '-'))  # Example usage 
-print(calculator(5, 10, '*'))  # Example usage
-print(calculator(10, 5, '/'))  # Example usage
-print(calculator(10, 0, '/'))  # Example usage with division by zero
-print(calculator(10, 5, '%'))  # Example usage with invalid operator
+# print(calculator(5, 10, '+'))  # Example usage
+# print(calculator(10, 5, '-'))  # Example usage 
+# print(calculator(5, 10, '*'))  # Example usage
+# print(calculator(10, 5, '/'))  # Example usage
+# print(calculator(10, 0, '/'))  # Example usage with division by zero
+# print(calculator(10, 5, '%'))  # Example usage with invalid operator
 
